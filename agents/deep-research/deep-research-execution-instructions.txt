@@ -1,0 +1,58 @@
+
+DEEP RESEARCH AGENT EXECUTION - MULTI-PART PROTOCOL
+
+This research has triggered MULTI-PART protocol. Follow these steps EXACTLY:
+
+STEP 1: Inform User (in Portuguese)
+--------------------------------------
+Inform the user that this is a comprehensive research that will be divided into 4 parts to ensure maximum quality and avoid technical limitations.
+
+Message template:
+"Esta pesquisa é muito abrangente e será dividida em 4 partes para garantir qualidade máxima e evitar limitações técnicas. Cada parte será salva em arquivo separado, e ao final será criado um relatório consolidado completo."
+
+STEP 2: Execute Multi-Part Research
+--------------------------------------
+Research and save each part to a separate file:
+
+**Part 1: Regulatory Framework & Compliance**
+- File: /Users/denismarinho/ed-compounding-pharmacist-part1-regulatory.md
+- Sections: 2 (Regulatory Framework), 6 (Compounding Limits & Compliance)
+- Focus: 503A vs 503B, USP standards, FDA/FTC/NABP guidelines, state boards, essentially a copy rule, advertising compliance
+
+**Part 2: Pharmacist Profile & Clinical Competencies**
+- File: /Users/denismarinho/ed-compounding-pharmacist-part2-profile-clinical.md
+- Sections: 3 (Pharmacist Profile & Qualifications), 4 (Clinical Competencies ED)
+- Focus: Education, certifications, formulation skills, QbD, PDE5i mechanisms, PK/PD, safety, contraindications, counseling
+
+**Part 3: Quality Standards & Operational Processes**
+- File: /Users/denismarinho/ed-compounding-pharmacist-part3-quality-operations.md
+- Sections: 5 (Quality Standards & Testing), 7 (Standard Process SOP), 8 (Supplier Evaluation Matrix)
+- Focus: QC by dosage form, stability, BUD, raw materials, testing, SOP from proposal to release, supplier checklist
+
+**Part 4: Deliverables, Templates & Models**
+- File: /Users/denismarinho/ed-compounding-pharmacist-part4-deliverables.md
+- Sections: 9 (Formula Models), 10 (AI Agent Roadmap), 11 (Deliverables Summary)
+- Focus: Educational formula examples, AI agent prompts/rules, templates, checklists, matrices
+
+STEP 3: Create Consolidated Report
+--------------------------------------
+After ALL parts are complete, merge into:
+- File: /Users/denismarinho/ed-compounding-pharmacist-complete-report.md
+- Include: Unified Executive Summary, Master Table of Contents, all parts merged, consolidated bibliography
+
+STEP 4: Return Summary to User
+--------------------------------------
+Provide concise summary (300-400 words) in Portuguese with:
+- Files created (paths)
+- Scope of research (sources, searches, templates)
+- Key findings (3-4 bullets)
+- Next steps
+
+CRITICAL REMINDERS:
+- NEVER try to return full research in response
+- ALWAYS save each part to file
+- ALWAYS create consolidated report
+- ALWAYS return only summary with file paths
+- Apply ALL quality standards from AGENT.md (templates, case studies, sources)
+
+Research request is in: /Users/denismarinho/deep-research-request.md
